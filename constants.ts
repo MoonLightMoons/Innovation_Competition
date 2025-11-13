@@ -14,16 +14,16 @@ export const USERS: User[] = [
 ];
 
 export const TEAM_MEMBERS: TeamMember[] = [
-    { id: 1, name: '张三', major: '计算机科学', avatarUrl: 'https://picsum.photos/seed/1/100' },
-    { id: 2, name: '李四', major: '软件工程', avatarUrl: 'https://picsum.photos/seed/2/100' },
-    { id: 3, name: '王五', major: '人工智能', avatarUrl: 'https://picsum.photos/seed/3/100' },
-    { id: 4, name: '赵六', major: '数据科学', avatarUrl: 'https://picsum.photos/seed/4/100' }
+    { id: 1, name: '张成鑫', major: '计算机科学', avatarUrl: 'https://picsum.photos/seed/1/100' },
+    { id: 2, name: '江泽轩', major: '软件工程', avatarUrl: 'https://picsum.photos/seed/2/100' },
+    { id: 3, name: '陈景然', major: '人工智能', avatarUrl: 'https://picsum.photos/seed/3/100' },
+    { id: 4, name: '吴冶毅', major: '数据科学', avatarUrl: 'https://picsum.photos/seed/4/100' }
 ];
 
 export const COMMENTS: Comment[] = [
-    { id: 1, author: '陈教授', avatarUrl: 'https://picsum.photos/seed/10/100', text: '这个项目的技术实现很有新意，但是需要考虑实际应用场景的落地问题。', votes: 15 },
-    { id: 2, author: '企业导师A', avatarUrl: 'https://picsum.photos/seed/11/100', text: '建议在用户界面上做得更友好一些，目前的交互逻辑有些复杂。', imageUrl: 'https://picsum.photos/seed/ui/400/200', votes: 8 },
-    { id: 3, author: '学长B', avatarUrl: 'https://picsum.photos/seed/12/100', text: '核心算法部分可以尝试用最新的深度学习模型进行优化，性能可能会有提升。', votes: 22 },
+    { id: 1, author: '林雨霞', avatarUrl: 'https://picsum.photos/seed/10/100', text: '这个项目的技术实现很有新意，但是需要考虑实际应用场景的落地问题。', votes: 15 },
+    { id: 2, author: '谷宁宁', avatarUrl: 'https://picsum.photos/seed/11/100', text: '建议在用户界面上做得更友好一些，目前的交互逻辑有些复杂。', imageUrl: 'https://picsum.photos/seed/ui/400/200', votes: 8 },
+    { id: 3, author: '宁茵', avatarUrl: 'https://picsum.photos/seed/12/100', text: '核心算法部分可以尝试用最新的深度学习模型进行优化，性能可能会有提升。', votes: 22 },
 ];
 
 export const VERSIONS: Version[] = [
